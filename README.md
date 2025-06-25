@@ -49,5 +49,5 @@ C. Interactive visualizations with Plotly
 #License
 -This project is open source and available under the MIT License.
 
-![](Visulization Images.png)
+![](VisulizationImages.png)
 
