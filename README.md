@@ -52,5 +52,7 @@ C. Interactive visualizations with Plotly
 
 -This project is open source and available under the MIT License.
 
+# DashBoard
+
 ![Visualizations](https://github.com/milind000/Python-Projects/blob/main/Visulization%20Images.png)
 
