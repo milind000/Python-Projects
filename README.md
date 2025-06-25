@@ -43,10 +43,13 @@ To run this project locally:
 Feel free to fork and enhance the project. You can add:
 
 A. More detailed NLP on descriptions
+
 B. Streamlit or Dash dashboard
+
 C. Interactive visualizations with Plotly
 
 #License
+
 -This project is open source and available under the MIT License.
 
 ![Visualizations](https://github.com/milind000/Python-Projects/blob/main/Visulization%20Images.png)
